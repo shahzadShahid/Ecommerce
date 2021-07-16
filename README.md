@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <p align="center">
     <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
@@ -42,3 +43,7 @@ This project includes:
 <a href="https://www.twitter.com/justdjangocode" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
+||||||| empty tree
+=======
+# EcommerceWeb
+>>>>>>> 8e6a5c1d5e736885b3764d83d624813b8c5011fb
