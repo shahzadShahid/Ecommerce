@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 <p align="center">
   <p align="center">
     <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
@@ -48,7 +47,3 @@ This project includes:
 =======
 # EcommerceWeb
 >>>>>>> 8e6a5c1d5e736885b3764d83d624813b8c5011fb
-||||||| empty tree
-=======
-# Ecommerce
->>>>>>> 0dec5057d59ed67749bfa31f7761f3f00fba5005
